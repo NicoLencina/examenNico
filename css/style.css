@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(206, 206, 206) !important;
+}
+#TituloFlash,
+#NombreLateral {
+  color: green;
+}
+#carrusel {
+  font-size: 350%;
+}
+#NombreLateral {
+  font-size: 200%;
+}
+.encavezadoFlash {
+  display: flex;
+  justify-content: center;
+}
+
+.carousel-caption {
+  background-color: rgba(255, 240, 245, 0.459);
+  border-radius: 20px;
+}
+.letrasCarrusel {
+  color: black;
+}
+.letrasCarrusel1 {
+  font-size: black solid 150%;
+}
+.carousel-item {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.formulario {
+  text-align: center;
+  height: 300px;
+  width: 80%;
+  border: black solid 2px;
+  border-radius: 10px;
+  margin: 20px;
+  margin-left: 120px;
+  padding: 5px;
+}
+.form-group {
+  padding: 10px 0;
+}
